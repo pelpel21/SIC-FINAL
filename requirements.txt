@@ -1,6 +1,6 @@
 streamlit
 paho-mqtt
-tensorflow==2.11.0
+tensorflow==2.17.0
 numpy==1.25.0
 scipy==1.9.3
 Pillow
