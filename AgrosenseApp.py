@@ -4,6 +4,7 @@ import time
 from PIL import Image
 import io
 import numpy as np
+import scipy as sp
 import tensorflow as tf
 from streamlit_option_menu import option_menu
 import os
